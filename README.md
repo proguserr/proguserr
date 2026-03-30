@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=28&pause=1000&color=87CEEB&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Sam+%F0%9F%91%8B;A+Full+Stack+Engineer;Building+AI-powered+products" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Full Stack Engineer who takes products from idea to production and ships end-to-end from the ground up.</h3>
+<h3 align="left">Full Stack Engineer who builds and ships products end-to-end, from idea to production.</h3>
 
 <br/>
 
@@ -118,6 +118,7 @@
     <img src="https://skillicons.dev/icons?i=figma" height="45" alt="figma" />
   </a>
 </p>
+
 
 <p align="center">
   <i>Open to fullstack and backend roles at early-stage startups. I build fast, ship real products, and figure things out!</i>
